@@ -34,6 +34,14 @@
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
+
+  <detials><summary>Deploy To Render</summary>
+  <p>
+    <br>
+    <a href="https://render.com/deploy?repo=https://github.com/piratemoviez/PYRO-RENAME-BOT">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+  </p>
 </details>
 
 
